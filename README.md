@@ -12,11 +12,11 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-0_строк-555555?logo=javascript&logoColor=F7DF1E" alt="0 строк JavaScript">
-  <a href="https://dekciw.github.io/dynamic-island/"><img src="https://img.shields.io/badge/GitHub_Pages-online-222222?logo=github&logoColor=white" alt="GitHub Pages"></a>
+  <a href="https://dekciw.github.io/DynamicIslandCSS/"><img src="https://img.shields.io/badge/GitHub_Pages-online-222222?logo=github&logoColor=white" alt="GitHub Pages"></a>
 </p>
 
 <p align="center">
-  <a href="https://dekciw.github.io/dynamic-island/">
+  <a href="https://dekciw.github.io/DynamicIslandCSS/">
     <img src="https://img.shields.io/badge/Живое_демо-A855F7?style=for-the-badge" alt="Живое демо">
   </a>
 </p>
@@ -38,7 +38,7 @@
         <li><b>Масштабируется под окно</b>: все размеры заданы в <code>em</code> от <code>1vmin</code></li>
       </ul>
       <h3>Как попробовать</h3>
-      <p>Открой <a href="https://dekciw.github.io/dynamic-island/">живое демо</a>, наведи курсор на «чёлку» и переключи тему кружками сверху.</p>
+      <p>Открой <a href="https://dekciw.github.io/DynamicIslandCSS/">живое демо</a>, наведи курсор на «чёлку» и переключи тему кружками сверху.</p>
     </td>
   </tr>
 </table>
@@ -89,8 +89,8 @@
 Сборка и зависимости не нужны. Достаточно открыть `index.html` в браузере:
 
 ```bash
-git clone https://github.com/dekciw/dynamic-island.git
-cd dynamic-island
+git clone https://github.com/dekciw/DynamicIslandCSS.git
+cd DynamicIslandCSS
 # открой index.html двойным кликом или через любой локальный сервер
 ```
 
