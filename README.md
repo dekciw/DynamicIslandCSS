@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://dekciw.github.io/DynamicIslandCSS/">
-    <img src="https://img.shields.io/badge/Живое_демо-A855F7?style=for-the-badge" alt="Живое демо">
+    <img src="https://img.shields.io/badge/Открыть_в_браузере-A855F7?style=for-the-badge" alt="Открыть в браузере">
   </a>
 </p>
 
@@ -38,7 +38,7 @@
         - <b>Масштабируется под окно</b>: все размеры заданы в <code>em</code> от <code>1vmin</code>
       </p>
       <h3>Как попробовать</h3>
-      <p>Открой <a href="https://dekciw.github.io/DynamicIslandCSS/">живое демо</a>, наведи курсор на «чёлку» и переключи тему кружками сверху.</p>
+      <p>Открой <a href="https://dekciw.github.io/DynamicIslandCSS/">проект в браузере</a>, наведи курсор на «чёлку» и переключи тему кружками сверху.</p>
     </td>
   </tr>
 </table>
