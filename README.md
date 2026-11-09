@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="110" alt="Dynamic Island logo">
+</p>
+
 <h1 align="center">Dynamic Island</h1>
 
 <p align="center">
@@ -103,7 +107,7 @@ cd dynamic-island
 ├── index.html           # разметка: радиокнопки тем, корпус телефона, экран и остров
 ├── style.css            # темы, анимации, раскрытие острова
 ├── background-img.png   # текстура обоев экрана
-└── assets/              # скриншоты для README
+└── assets/              # логотип и скриншоты для README
 ```
 
 </details>
