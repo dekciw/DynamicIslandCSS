@@ -22,7 +22,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/preview.png" width="320" alt="Dynamic Island в фиолетовой теме">
+      <img src="assets/screen-main.png" width="320" alt="Dynamic Island в фиолетовой теме">
     </td>
     <td width="50%" valign="top">
       <h3>Что умеет</h3>
@@ -43,10 +43,10 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="assets/theme-deep-purple.png" width="170" alt="Тема Deep Purple"><br><sub>Deep Purple</sub></td>
-    <td align="center"><img src="assets/theme-gold.png" width="170" alt="Тема Gold"><br><sub>Gold</sub></td>
-    <td align="center"><img src="assets/theme-space-black.png" width="170" alt="Тема Space Black"><br><sub>Space Black</sub></td>
-    <td align="center"><img src="assets/theme-silver.png" width="170" alt="Тема Silver"><br><sub>Silver</sub></td>
+    <td align="center"><img src="assets/screen-deep-purple.png" width="170" alt="Тема Deep Purple"><br><sub>Deep Purple</sub></td>
+    <td align="center"><img src="assets/screen-gold.png" width="170" alt="Тема Gold"><br><sub>Gold</sub></td>
+    <td align="center"><img src="assets/screen-space-black.png" width="170" alt="Тема Space Black"><br><sub>Space Black</sub></td>
+    <td align="center"><img src="assets/screen-silver.png" width="170" alt="Тема Silver"><br><sub>Silver</sub></td>
   </tr>
 </table>
 
