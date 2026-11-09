@@ -17,14 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://dekciw.github.io/dynamic-island/">Демо</a>
-  ·
-  <a href="https://github.com/dekciw/dynamic-island/issues/new?labels=bug">Сообщить об ошибке</a>
-  ·
-  <a href="https://github.com/dekciw/dynamic-island/issues/new?labels=enhancement">Предложить идею</a>
-</p>
-
 <br>
 
 <table align="center">
