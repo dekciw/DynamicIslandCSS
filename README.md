@@ -22,7 +22,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/preview.png" width="320" alt="Раскрытая Dynamic Island в фиолетовой теме">
+      <img src="assets/preview.png" width="320" alt="Dynamic Island в фиолетовой теме">
     </td>
     <td width="50%" valign="top">
       <h3>Что умеет</h3>
